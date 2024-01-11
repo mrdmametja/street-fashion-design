@@ -178,7 +178,7 @@ label #cancel {
     padding: 2rem 0 0 2rem;
     min-height: 25em;
     font-size: 1em;
-   
+    
    
 
 }
@@ -410,3 +410,8 @@ label #cancel {
 
 
 
+@media (min-width: 500em){
+    #bottom-nav{width: 500em;}
+    #main-products{width: 500em;}
+
+}
